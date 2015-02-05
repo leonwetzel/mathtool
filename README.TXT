@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 Hello there! This is just a small project which I made because I was
 bored. You can use the Calculator class to calculate the slope of a
-quadratic formula (e.g. 3x^3 or 100x^2.5)
+quadratic equation (e.g. 3x^3 or 100x^2.5)
 
 Feel free to use this small project for your own specific reasons!
 ------------------------------------------------------------------------

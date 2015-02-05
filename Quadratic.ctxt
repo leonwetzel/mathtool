@@ -1,8 +1,8 @@
 #BlueJ class context
 comment0.params=grondgetal\ macht
 comment0.target=Quadratic(double,\ double)
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Calculator\r\n\ @param\ grondgetal\r\n\ @param\ macht\r\n
+comment0.text=\r\n\ Calculate\ the\ slope\ of\ a\ quadratic\ equation\r\n\ @param\ grondgetal\r\n\ @param\ macht\r\n
 comment1.params=grondgetal\ macht
 comment1.target=java.lang.String\ bereken(double,\ double)
-comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ grondgetal\r\n\ @param\ \ macht\r\n\ @return\ Antwoord\r\n
+comment1.text=\r\n\ The\ calculator\r\n\ \r\n\ @param\ \ grondgetal\r\n\ @param\ \ macht\r\n\ @return\ Antwoord\r\n
 numComments=2

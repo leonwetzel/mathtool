@@ -1,6 +1,6 @@
 
 /**
- * A tool to calculate the slope of a quadratic formula.
+ * A tool to calculate the slope of a quadratic equation.
  * Application is written in English, but meant for Dutch users.
  * This project is build in BlueJ.
  * 
@@ -15,7 +15,7 @@ public class Quadratic
     private String eindresultaat;
 
     /**
-     * Constructor for objects of class Calculator
+     * Calculate the slope of a quadratic equation
      * @param grondgetal
      * @param macht
      */
@@ -26,7 +26,7 @@ public class Quadratic
     }
 
     /**
-     * An example of a method - replace this comment with your own
+     * The calculator
      * 
      * @param  grondgetal
      * @param  macht
@@ -34,7 +34,7 @@ public class Quadratic
      */
     public String bereken(double grondgetal, double macht)
     {
-        // The formula for calculating the slope of a quadratic formula: n*x^(n-1)
+        // The equation for calculating the slope of a quadratic equation: n*x^(n-1)
         double nieuwTal = grondgetal * macht;
         double nieuwMacht = macht-1.00;
         eindresultaat = "De afgeleide van " + grondgetal + "x^" + macht + " is " + nieuwTal + "x^" + nieuwMacht + ".";

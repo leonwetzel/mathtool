@@ -9,7 +9,7 @@
  * @author Leon Wetzel
  * @version 04.02.2015
  */
-public class Calculator
+public class Quadratic
 {
     // instantievariabelen
     private String eindresultaat;
@@ -19,7 +19,7 @@ public class Calculator
      * @param grondgetal
      * @param macht
      */
-    public Calculator(double grondgetal, double macht)
+    public Quadratic(double grondgetal, double macht)
     {
         bereken(grondgetal, macht);
         System.out.println(eindresultaat);
